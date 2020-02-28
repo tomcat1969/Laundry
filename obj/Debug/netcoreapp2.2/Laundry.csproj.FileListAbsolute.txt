@@ -1,0 +1,70 @@
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/bin/Debug/netcoreapp2.2/Laundry.deps.json
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/bin/Debug/netcoreapp2.2/Laundry.runtimeconfig.json
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/bin/Debug/netcoreapp2.2/Laundry.runtimeconfig.dev.json
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/bin/Debug/netcoreapp2.2/Laundry.dll
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/bin/Debug/netcoreapp2.2/Laundry.pdb
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/bin/Debug/netcoreapp2.2/Laundry.Views.dll
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/bin/Debug/netcoreapp2.2/Laundry.Views.pdb
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.csprojAssemblyReference.cache
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.csproj.CoreCompileInputs.cache
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorAssemblyInfo.cache
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorAssemblyInfo.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.AssemblyInfoInputs.cache
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.AssemblyInfo.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.TagHelpers.input.cache
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.TagHelpers.output.cache
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorCoreGenerate.cache
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorTargetAssemblyInfo.cache
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorTargetAssemblyInfo.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.Views.pdb
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.dll
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.pdb
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Laundry.csproj.CopyComplete
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Login.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Success.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/EditUser.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/NewWM.g.cshtml.cs
+/Users/linhuang/Desktop/CodingDojo/c_sharp_stack/Dojo_dotnet/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Test.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/bin/Debug/netcoreapp2.2/Laundry.deps.json
+/Users/linhuang/Desktop/Dojo exam/Laundry/bin/Debug/netcoreapp2.2/Laundry.runtimeconfig.json
+/Users/linhuang/Desktop/Dojo exam/Laundry/bin/Debug/netcoreapp2.2/Laundry.runtimeconfig.dev.json
+/Users/linhuang/Desktop/Dojo exam/Laundry/bin/Debug/netcoreapp2.2/Laundry.dll
+/Users/linhuang/Desktop/Dojo exam/Laundry/bin/Debug/netcoreapp2.2/Laundry.pdb
+/Users/linhuang/Desktop/Dojo exam/Laundry/bin/Debug/netcoreapp2.2/Laundry.Views.dll
+/Users/linhuang/Desktop/Dojo exam/Laundry/bin/Debug/netcoreapp2.2/Laundry.Views.pdb
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.csprojAssemblyReference.cache
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.csproj.CoreCompileInputs.cache
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorAssemblyInfo.cache
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorAssemblyInfo.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.AssemblyInfoInputs.cache
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.AssemblyInfo.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.TagHelpers.input.cache
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.TagHelpers.output.cache
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorCoreGenerate.cache
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/EditUser.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Login.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/NewWM.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Success.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Home/Test.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorTargetAssemblyInfo.cache
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.RazorTargetAssemblyInfo.cs
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.Views.pdb
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.dll
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.pdb
+/Users/linhuang/Desktop/Dojo exam/Laundry/obj/Debug/netcoreapp2.2/Laundry.csproj.CopyComplete

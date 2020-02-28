@@ -1,0 +1,41 @@
+<h1>Edit User!</h1>
+<a href="/login">Login</a>
+@model User
+<form asp-action="DoEditUser" asp-controller="Home" method="post">
+    <input type="hidden" asp-for="@Model.UserId" value="@Model.UserId">
+    <p>
+        <label asp-for="@Model.FirstName"></label>
+        <input asp-for="@Model.FirstName">
+        <span asp-validation-for="@Model.FirstName"></span>
+    </p>
+
+    <p>
+        <label asp-for="@Model.LastName"></label>
+        <input asp-for="@Model.LastName">
+        <span asp-validation-for="@Model.LastName"></span>
+    </p>
+
+    <p>
+        <label asp-for="@Model.Email"></label>
+        <input asp-for="@Model.Email">
+        <span asp-validation-for="@Model.Email"></span>
+    </p>
+
+    @if( @ViewBag.CurrentUser.IsAdmin)
+    {
+        <p>
+        <label asp-for="@Model.IsAdmin"></label>
+        <select asp-for="@Model.IsAdmin">
+            <option value="false">False</option>
+             <option value="true">True</option>
+        </select>
+        <span asp-validation-for="@Model.IsAdmin"></span> 
+        </p>
+    }
+    
+    
+    
+    <p><button>Edit</button></p>
+
+    
+</form>

@@ -1,0 +1,23 @@
+
+<a href="#">Dash Board</a>
+@model WashingMachine
+<form asp-action="AddnewWM" asp-controller="Home" method="post">
+    <p>
+        <label asp-for="ModelName"></label>
+        <input asp-for="ModelName">
+        <span asp-validation-for="ModelName"></span>
+    </p>
+
+    <p>
+        <label asp-for="PicURL"></label>
+        <input asp-for="PicURL" value="~/img/wm01.png">
+        <span asp-validation-for="PicURL"></span>
+    </p>
+     <input type="hidden" name="UserId" Value="@ViewBag.UserId">
+     <input type="hidden" name="status" Value="ready">
+
+    
+    <p><button>Add</button></p>
+    <img src="~/img/wm01.png" tag="washing machine">
+    
+</form>

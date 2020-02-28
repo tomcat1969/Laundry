@@ -1,0 +1,24 @@
+<h1>Laundromat Master!</h1>
+<a href="/">Register</a>
+@model LoginUser
+<form asp-action="DoLogin" asp-controller="Home" method="post">
+    
+
+    <p>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" value="admin@t.com">
+        <span asp-validation-for="Email"></span>
+    </p>
+    <p>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" value="password">
+        <span asp-validation-for="Password"></span> 
+    </p>
+    
+   
+    <p><button>Login</button></p>
+
+    
+</form>
+<p>admin@t.com</p>
+<p>password</p>

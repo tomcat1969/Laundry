@@ -1,0 +1,117 @@
+<style>
+        .wms {
+    list-style: none;
+    overflow: hidden;
+    
+    }
+    .wms li{
+    float: left;
+    margin: 20px 30px 20px 20px
+    
+    }
+
+    .nogo{
+       color:red;
+       font-color:red;
+    }
+    .go{
+        color:green;
+    }
+    .test{
+          color:red;
+     }
+    .duration{
+        width:60px;
+    }
+
+
+    
+</style>
+
+@model List<User>
+<h5 class="text-info">Login successfully!!!</h5>
+<h5>Hello, @ViewBag.Current_User.FirstName</h5>
+<h4><a href="/logout">Log out</a></h4>
+ @if(@ViewBag.Current_User.IsAdmin){
+    <h2>User List</h2>
+    <table class="table">
+        <tr>
+            <td>Fisrt Name</td>
+            <td>Last Name</td>
+            <td>Email Address</td>
+            <td>Is Admin</td>
+            <td>Create At</td>
+            <td>Action</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.Email</td>
+                <td>@item.IsAdmin</td>
+                <td>@item.CreatedAt</td>
+                <td>
+                    @if(@ViewBag.Current_User.IsAdmin)
+                    {
+                        <a href="/editUser/@item.UserId/@ViewBag.Current_User.UserId">Edit</a> <span>|</span> 
+                        <a href="/deleteUser/@item.UserId/@ViewBag.Current_User.UserId">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </table>
+ }
+<h2>Washing Machines </h2>   
+@if(@ViewBag.Current_User.IsAdmin){
+    <a href="/newWM/@ViewBag.Current_User.UserId" class="btn btn-primary">Add a new Washing Machine</a>
+}
+
+<ul class="wms">
+    @foreach (var item in ViewBag.AllWMs)
+    {
+        <li>
+            <div class="card" style="width: 18rem;">
+            <img src="~/img/wm01.png" class="card-img-top" alt="Washing Machine">
+            <div class="card-body">
+                <h5 class="card-title">No. @item.WashingMachineId</h5>
+                <p class="card-text">
+                    @if(@item.status == "ready"){
+                            <span class="go">(Available)</span>
+                        
+                            <form action="addNewWMevent" method="post">
+                                <input type="hidden" name="UserId" value="@ViewBag.Current_User.UserId">
+                                <input type="hidden" name="WashingMachineId" value="@item.WashingMachineId">
+                                <p>Use <input class="duration" type="number" name="duration" value="15">Minutes </p>
+                                <p><button class="btn btn-primary">Start</button></p>
+                            </form>
+                        }else if(@item.status == "inUse"){
+                            <span class="nogo">(In use)</span>
+                            
+                            <h4>@item.DurationLeft Minutes left</h4>
+                        }else if(@item.status == "doneWork"){
+                            <span class="nogo">(waiting for picking up clothes)</span>
+                            
+                            <p>reminder message has been sent to @item.UserOccupied.Email</p>
+                            @if(@item.UserId == @ViewBag.Current_User.UserId ){
+                                <a href="/resetWM/@item.WashingMachineId/@ViewBag.Current_User.UserId" class="btn btn-primary">reset and pick up</a>
+                            }
+                        }   else {
+                            <span class="nogo">(Sorry, out of work)</span>
+                            <img src="~/img/wm01.png" tag="washing machine">
+                            <h4>Sorry, out of work at this moment</h4>
+                        }
+
+
+
+                </p>
+                
+            </div>
+            </div>
+             
+
+        </li>
+    }
+</ul>
+
+
